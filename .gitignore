@@ -1,0 +1,4 @@
+# ignore .git
+.git/
+# ignore os
+.DS_Store
