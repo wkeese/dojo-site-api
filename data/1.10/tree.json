@@ -4509,6 +4509,12 @@
 							"type": "constructor"
 						},
 						{
+							"id": "dojox/calendar/DecorationRenderer",
+							"name": "DecorationRenderer",
+							"fullname": "dojox/calendar/DecorationRenderer",
+							"type": "constructor"
+						},
+						{
 							"id": "dojox/calendar/ExpandRenderer",
 							"name": "ExpandRenderer",
 							"fullname": "dojox/calendar/ExpandRenderer",
@@ -4569,9 +4575,21 @@
 							"type": "constructor"
 						},
 						{
+							"id": "dojox/calendar/RendererManager",
+							"name": "RendererManager",
+							"fullname": "dojox/calendar/RendererManager",
+							"type": "constructor"
+						},
+						{
 							"id": "dojox/calendar/SimpleColumnView",
 							"name": "SimpleColumnView",
 							"fullname": "dojox/calendar/SimpleColumnView",
+							"type": "constructor"
+						},
+						{
+							"id": "dojox/calendar/StoreManager",
+							"name": "StoreManager",
+							"fullname": "dojox/calendar/StoreManager",
 							"type": "constructor"
 						},
 						{
